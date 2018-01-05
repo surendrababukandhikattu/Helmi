@@ -57,7 +57,7 @@ System.setProperty("webdriver.chrome.driver", "C:\\Selenium\\chromedriver.exe");
 	 WebElement test1 = driver.findElement(By.xpath("/html/body/ui/view/div[1]/ul/li[5]/a"));
 	 test1.click();
 	 System.out.println("Testinggggg5");		 
-	 
+	 System.out.println("Testingggggnew");	
 	 
 	 //driver.findElement(By.xpath(".//*[@id='tools']/div[2]/ul/li[2]/a")).click();
    //driver.close();
