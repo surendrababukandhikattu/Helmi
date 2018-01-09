@@ -52,6 +52,9 @@ public class Creating_facility {
 	 
 	 driver.findElement(By.className("entity_add")).click();
 	    System.out.println("Testinggggg3");
+	    System.out.println("Testinggggg3");
+	    System.out.println("Testinggggg3");
+	    System.out.println("Testinggggg3");
 	}
 
 }
